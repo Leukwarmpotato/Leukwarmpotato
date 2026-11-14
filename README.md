@@ -9,9 +9,7 @@ I work on machine learning for physical and process systems: surrogate models fo
 | Project | Description | Tools |
 |---|---|---|
 | [Porous media surrogates](https://github.com/Leukwarmpotato/Lattice-Boltzmann-Method-CNN-study) | Lattice Boltzmann solver written in JAX, used to simulate flow through 1,000 synthetic porous media. A CNN trained on the results predicts permeability up to four orders of magnitude faster than the solver. | Python, JAX, PyTorch |
-<!-- 
-| [PBR.jl](https://github.com/Leukwarmpotato/PBR.jl) | Dynamic model of a tubular photobioreactor for growing *Dunaliella salina*. 606 coupled stiff ODEs covering growth kinetics, light attenuation and carbonate chemistry, solved with DifferentialEquations.jl. | Julia |
--->
+| [Photobioreactor model](https://github.com/Leukwarmpotato/tubular-photobioreactor-model) | Dynamic model of a tubular photobioreactor for growing *Dunaliella salina*. 606 coupled stiff ODEs covering growth kinetics, light attenuation and carbonate chemistry, solved with DifferentialEquations.jl. | Julia |
 | [FUGK distillation design](https://github.com/Leukwarmpotato/FUGK-Distillation-Column-Design) | Shortcut design of a multicomponent distillation column, from minimum stages and reflux ratio through to duties, exchanger areas and column diameter. | Python |
 
 ### Currently
