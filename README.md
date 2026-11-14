@@ -20,7 +20,7 @@ Coursework at Imperial on multi-fidelity Bayesian optimisation, reinforcement le
 
 **Languages:** Python, Julia, MATLAB, SQL<br>
 **Libraries:** PyTorch, JAX, scikit-learn, NumPy, pandas, DifferentialEquations.jl<br>
-**Engineering software:** UniSim, ANSYS Fluent, COMSOL, SolidWorks
+**Engineering software:** UniSim, ANSYS Fluent, COMSOL, SolidWorks, Aspen HYSYS
 
 ### Contact
 
