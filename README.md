@@ -1,8 +1,8 @@
 ## Poorvash Muthumaheswaran
 
-MSc Machine Learning and Process Systems Engineering at Imperial College London. BEng Chemical Engineering (First Class) from the University of Edinburgh.
+MSc Machine Learning and Process Systems Engineering at Imperial College London. BEng Chemical Engineering (First Class), University of Edinburgh.
 
-I work on machine learning for physical and process systems: surrogate models for expensive simulations, mechanistic process models, and optimisation and control.
+I build machine learning models for physical systems where every data point comes from an expensive simulation: neural network surrogates with calibrated uncertainty, Bayesian optimisation that needs few evaluations, and the physics-based simulators that generate the training data.
 
 ### Projects
 
@@ -19,9 +19,11 @@ Coursework at Imperial on multi-fidelity Bayesian optimisation, reinforcement le
 
 ### Skills
 
+**Machine learning:** PyTorch, JAX, scikit-learn, Gaussian processes, deep ensembles, uncertainty calibration<br>
 **Languages:** Python, Julia, MATLAB, SQL<br>
-**Libraries:** PyTorch, JAX, scikit-learn, NumPy, SciPy, pandas, DifferentialEquations.jl<br>
-**Engineering software:** UniSim, ANSYS Fluent, COMSOL, SolidWorks, Aspen HYSYS
+**Scientific computing:** NumPy, SciPy, pandas, DifferentialEquations.jl<br>
+**Tooling:** Git, GitHub Actions, pytest, uv<br>
+**Engineering software:** Aspen HYSYS, UniSim, COMSOL, ANSYS Fluent, SolidWorks
 
 ### Contact
 
